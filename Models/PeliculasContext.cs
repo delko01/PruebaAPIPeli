@@ -11,9 +11,9 @@ namespace pruebaVSCodeAPI.Models
         {
         }
 
-        public PeliculasContext(DbContextOptions<PeliculasContext> options)
-            : base(options)
+        public PeliculasContext(DbContextOptions<PeliculasContext> options) : base(options)
         {
+            
         }
 
         public virtual DbSet<Categoria> Categorias { get; set; } = null!;
