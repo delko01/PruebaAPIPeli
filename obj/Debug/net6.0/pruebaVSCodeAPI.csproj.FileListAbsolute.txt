@@ -59,3 +59,4 @@ C:\Users\casa\Documents\VSProjects\VSCodePrueba\pruebaVSCodeAPI\obj\Debug\net6.0
 C:\Users\casa\Documents\VSProjects\VSCodePrueba\pruebaVSCodeAPI\obj\Debug\net6.0\ref\pruebaVSCodeAPI.dll
 C:\Users\casa\Documents\VSProjects\VSCodePrueba\pruebaVSCodeAPI\obj\Debug\net6.0\pruebaVSCodeAPI.pdb
 C:\Users\casa\Documents\VSProjects\VSCodePrueba\pruebaVSCodeAPI\obj\Debug\net6.0\pruebaVSCodeAPI.genruntimeconfig.cache
+C:\Users\casa\Documents\VSProjects\VSCodePrueba\pruebaVSCodeAPI\bin\Debug\net6.0\omnisharp.json
